@@ -54,7 +54,7 @@ Resúmenes, apuntes personales y material de estudio elaborado a partir de las c
 Trabajos y ejercicios basados en los cuadernos de cátedra oficiales. Resolución de problemas propuestos y adaptaciones personalizadas del material académico.
 
 ### **📂 TPI_VisualAssistant**
-[**Trabajo Práctico Integrador**](TPI_VisualAssistant/TPI_VisualAssistant.ipynb): Desarrollo de un asistente visual inteligente que aplica múltiples técnicas de procesamiento digital de imágenes estudiadas durante la cursada.
+[**Trabajo Práctico Integrador**](TPI_VisualAssistant/TPI_VisualAssistant.ipynb): Desarrollo de un asistente visual inteligente. Trabajo practico integrador donde se aplica múltiples técnicas de procesamiento digital de imágenes estudiadas durante la cursada.
 
 ## 🎯 Objetivos de Aprendizaje
 
