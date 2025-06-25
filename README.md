@@ -27,7 +27,7 @@ propiedades.
 de imágenes, como la umbralización global, la umbralización adaptativa y la
 segmentación basada en color. El objetivo fue separar objetos de interés del
 fondo y extraer regiones específicas de las imágenes.
-    - Enlace: [002-Segmentacion/TP02_Segmentacion.ipynb](https://github.com/parivgabriela/PDI_PARI_VACA_GABRIELA/blob/main/001-ManipulacionBasica/TP01_ManipulacionBasica.ipynb)
+    - Enlace: [002-Segmentacion/TP02_Segmentacion.ipynb](https://github.com/parivgabriela/PDI_PARI_VACA_GABRIELA/blob/main/002-Segmentacion/TP02_Segmentacion.ipynb)
 
 
 ## 📁 Estructura del Repositorio
