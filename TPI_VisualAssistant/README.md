@@ -34,7 +34,7 @@ Framework de la Aplicación
 
 **google/paligemma-3b-mix-224 (PaliGemma):** Es el cerebro del asistente. Este potente modelo multimodal de Google es el encargado de la tarea de Visual Question Answering (VQA). Recibe una imagen y una pregunta en formato de texto para generar una respuesta relevante basada en el contenido visual.
 
-**openai/whisper-tiny (Whisper):** Este modelo de OpenAI se utiliza para el Reconocimiento Automático de Voz (ASR o Speech-to-Text). Se encarga de tomar el audio grabado por el usuario a través del micrófono y transcribirlo a texto. Este texto luego se utiliza como la pregunta para PaliGemma. Se eligió la versión tiny para optimizar los tiempos de carga y el uso de recursos en el entorno de Colab.
+**openai/whisper-base(Whisper):** Este modelo de OpenAI se utiliza para el Reconocimiento Automático de Voz (ASR o Speech-to-Text). Se encarga de tomar el audio grabado por el usuario a través del micrófono y transcribirlo a texto. Este texto luego se utiliza como la pregunta para PaliGemma. Se eligió la versión tiny para optimizar los tiempos de carga y el uso de recursos en el entorno de Colab.
 
 ### Librerías Principales de Python
 
